@@ -43,6 +43,6 @@ def main():
         st.text(summary)
         
 # Configure the API Key (set your actual API key here)
-genai.configure(api_key="AIzaSyD6Pgjy_DejFx759dTD4UsEiFRQGhaWuRk")
+genai.configure(api_key="Enter your api key here")
 
 main()
